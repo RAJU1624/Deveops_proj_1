@@ -13,6 +13,8 @@ namespace Deveops_proj_1
             Console.WriteLine("from VS");
             Console.WriteLine("try to conflict");
             Console.ReadLine();
+            Console.WriteLine("new branch");
+            
         
         }
     }
