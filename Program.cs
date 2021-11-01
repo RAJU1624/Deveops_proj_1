@@ -14,6 +14,7 @@ namespace Deveops_proj_1
             Console.WriteLine("try to conflict");
             Console.ReadLine();
             Console.WriteLine("new branch");
+            Console.WriteLine("my new branch 2");
             
         
         }
