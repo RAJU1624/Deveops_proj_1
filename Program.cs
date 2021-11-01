@@ -10,6 +10,7 @@ namespace Deveops_proj_1
             Console.WriteLine("Hello World!");
               Console.WriteLine("this is remote reposit");
             Console.WriteLine("from VS");
+            Console.WriteLine("try to conflict");
             Console.ReadLine();
         
         }
